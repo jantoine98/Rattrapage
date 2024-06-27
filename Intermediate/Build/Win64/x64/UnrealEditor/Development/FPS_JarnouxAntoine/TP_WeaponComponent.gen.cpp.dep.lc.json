@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\antoi\\travaux\\fps_jarnouxantoine\\intermediate\\build\\win64\\unrealeditor\\inc\\fps_jarnouxantoine\\uht\\tp_weaponcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\antoi\\travaux\\fps_jarnouxantoine\\intermediate\\build\\win64\\x64\\fps_jarnouxantoineeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\antoi\\travaux\\fps_jarnouxantoine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fps_jarnouxantoine\\definitions.fps_jarnouxantoine.h",
+            "c:\\users\\antoi\\travaux\\fps_jarnouxantoine\\source\\fps_jarnouxantoine\\tp_weaponcomponent.h",
+            "c:\\users\\antoi\\travaux\\fps_jarnouxantoine\\intermediate\\build\\win64\\unrealeditor\\inc\\fps_jarnouxantoine\\uht\\tp_weaponcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

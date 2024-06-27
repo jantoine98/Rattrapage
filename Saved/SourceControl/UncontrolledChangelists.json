@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/antoi/Travaux/FPS_JarnouxAntoine/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/antoi/Travaux/FPS_JarnouxAntoine/Content/Blueprint/BP_FPSProjectile.uasset",
+				"C:/Users/antoi/Travaux/FPS_JarnouxAntoine/Content/Blueprint/BP_FPSCharacter.uasset",
+				"C:/Users/antoi/Travaux/FPS_JarnouxAntoine/Content/Blueprint/BP_AmmoWidget.uasset",
+				"C:/Users/antoi/Travaux/FPS_JarnouxAntoine/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset"
+			]
+		}
+	]
+}

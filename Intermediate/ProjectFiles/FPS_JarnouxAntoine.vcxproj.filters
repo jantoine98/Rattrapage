@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FPS_JarnouxAntoine.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FPS_JarnouxAntoine.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FPS_JarnouxAntoineEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FPS_JarnouxAntoine">
+      <UniqueIdentifier>{86F45F89-BDE1-30C5-9878-AC7DA120623F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FPS_JarnouxAntoine\FPS_JarnouxAntoine.Build.cs">
+      <Filter>Source\FPS_JarnouxAntoine</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FPS_JarnouxAntoine\FPS_JarnouxAntoine.cpp">
+      <Filter>Source\FPS_JarnouxAntoine</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_JarnouxAntoine\FPS_JarnouxAntoine.h">
+      <Filter>Source\FPS_JarnouxAntoine</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS_JarnouxAntoine\FPS_JarnouxAntoineCharacter.cpp">
+      <Filter>Source\FPS_JarnouxAntoine</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_JarnouxAntoine\FPS_JarnouxAntoineCharacter.h">
+      <Filter>Source\FPS_JarnouxAntoine</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS_JarnouxAntoine\FPS_JarnouxAntoineGameMode.cpp">
+      <Filter>Source\FPS_JarnouxAntoine</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_JarnouxAntoine\FPS_JarnouxAntoineGameMode.h">
+      <Filter>Source\FPS_JarnouxAntoine</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS_JarnouxAntoine\FPS_JarnouxAntoinePlayerController.cpp">
+      <Filter>Source\FPS_JarnouxAntoine</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_JarnouxAntoine\FPS_JarnouxAntoinePlayerController.h">
+      <Filter>Source\FPS_JarnouxAntoine</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS_JarnouxAntoine\FPS_JarnouxAntoineProjectile.cpp">
+      <Filter>Source\FPS_JarnouxAntoine</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_JarnouxAntoine\FPS_JarnouxAntoineProjectile.h">
+      <Filter>Source\FPS_JarnouxAntoine</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS_JarnouxAntoine\TP_PickUpComponent.cpp">
+      <Filter>Source\FPS_JarnouxAntoine</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_JarnouxAntoine\TP_PickUpComponent.h">
+      <Filter>Source\FPS_JarnouxAntoine</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPS_JarnouxAntoine\TP_WeaponComponent.cpp">
+      <Filter>Source\FPS_JarnouxAntoine</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_JarnouxAntoine\TP_WeaponComponent.h">
+      <Filter>Source\FPS_JarnouxAntoine</Filter>
+    </ClInclude>
+    <Filter Include="Source\FPS_JarnouxAntoine\Character">
+      <UniqueIdentifier>{AA816726-C7F8-3BB7-82AC-03F584261EF8}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FPS_JarnouxAntoine\Character\FPSCharacter.cpp">
+      <Filter>Source\FPS_JarnouxAntoine\Character</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_JarnouxAntoine\Character\FPSCharacter.h">
+      <Filter>Source\FPS_JarnouxAntoine\Character</Filter>
+    </ClInclude>
+    <Filter Include="Source\FPS_JarnouxAntoine\Tir">
+      <UniqueIdentifier>{231558CF-1D0C-3A96-A9B1-FB8D99D05BAE}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FPS_JarnouxAntoine\Tir\FPSProjectile.cpp">
+      <Filter>Source\FPS_JarnouxAntoine\Tir</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPS_JarnouxAntoine\Tir\FPSProjectile.h">
+      <Filter>Source\FPS_JarnouxAntoine\Tir</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

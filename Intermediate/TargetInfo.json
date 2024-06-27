@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FPS_JarnouxAntoine",
+			"Path": "..\\Source\\FPS_JarnouxAntoine.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FPS_JarnouxAntoineEditor",
+			"Path": "..\\Source\\FPS_JarnouxAntoineEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

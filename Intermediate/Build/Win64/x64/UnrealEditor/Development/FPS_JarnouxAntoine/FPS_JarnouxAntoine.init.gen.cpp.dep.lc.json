@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\antoi\\travaux\\fps_jarnouxantoine\\intermediate\\build\\win64\\unrealeditor\\inc\\fps_jarnouxantoine\\uht\\fps_jarnouxantoine.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\antoi\\travaux\\fps_jarnouxantoine\\intermediate\\build\\win64\\x64\\fps_jarnouxantoineeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\antoi\\travaux\\fps_jarnouxantoine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fps_jarnouxantoine\\definitions.fps_jarnouxantoine.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

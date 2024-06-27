@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\antoi\\travaux\\fps_jarnouxantoine\\intermediate\\build\\win64\\unrealeditor\\inc\\fps_jarnouxantoine\\uht\\fps_jarnouxantoinegamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\antoi\\travaux\\fps_jarnouxantoine\\intermediate\\build\\win64\\x64\\fps_jarnouxantoineeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\antoi\\travaux\\fps_jarnouxantoine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fps_jarnouxantoine\\definitions.fps_jarnouxantoine.h",
+            "c:\\users\\antoi\\travaux\\fps_jarnouxantoine\\source\\fps_jarnouxantoine\\fps_jarnouxantoinegamemode.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\antoi\\travaux\\fps_jarnouxantoine\\intermediate\\build\\win64\\unrealeditor\\inc\\fps_jarnouxantoine\\uht\\fps_jarnouxantoinegamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
